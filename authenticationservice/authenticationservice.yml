@@ -9,8 +9,8 @@
       properties:
         hibernate:
           format_sql: true
-      datasource:
-        url: jdbc:mariadb://localhost:3306/ATHENA
-        driver-class-name: org.mariadb.jdbc.Driver
-        username: athena
-        password: kjungjh5213#
+    datasource:
+      url: jdbc:mariadb://localhost:3306/ATHENA
+      driver-class-name: org.mariadb.jdbc.Driver
+      username: athena
+      password: kjungjh5213#
