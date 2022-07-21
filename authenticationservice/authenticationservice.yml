@@ -13,5 +13,5 @@
     datasource:
       url: jdbc:mariadb://localhost:3306/ATHENA
       driver-class-name: org.mariadb.jdbc.Driver
-      username: athena
+      username: ATHENA
       password: kjungjh5213#
