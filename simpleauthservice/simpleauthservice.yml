@@ -14,3 +14,5 @@ spring:
     driver-class-name: org.mariadb.jdbc.Driver
     username: athena
     password: kjungjh5213#
+signing:
+  key: "345345fsdfsf5345"
